@@ -2,6 +2,7 @@
 
 int main()
 {
-printf("Hello work");
+printf("Hello world");
+printf("Hello withub");
 return 0;
 }
